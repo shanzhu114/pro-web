@@ -26,6 +26,8 @@ public class Demo01 {
 
         psmt.close();
         conn.close();
+        
+        System.out.println("hello ...");
 
 
     }
